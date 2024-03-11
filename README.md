@@ -8,13 +8,13 @@ Currently, this translation has not been extensively reviewed, and as such, is s
 To view the files, either download the repository/files, which allows for more flexibility, or when trying to view them here, be sure to click on "View raw", as the files are too big to automatically display on this site. For those unfamiliar with using repositories, simply click on the green `<> Code` button up and to the right, then select "Download Zip". Once downloaded, open the zip file to unzip it, and the files will be in the unzipped folder.
 
 ## Files
-### `verses.txt`
-The `verses.txt` file is simply every verse, in order, each on a single line, formatted as:
+## `verses.txt`
+The verses.txt file is simply every verse, in order, each on a single line, formatted as:
 
 `<book number>:<chapter number>:<verse number>/<verse text>`
 
-### `bible.json`
-The `bible.json` file is structured using JavaScript Object Notation (JSON) such that the keys are:
+## `bible.json`
+The bible.json file is structured using JavaScript Object Notation (JSON) such that the keys are:
 
 `"<book number>:<chapter number>"`, 
 
