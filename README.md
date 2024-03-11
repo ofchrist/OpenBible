@@ -9,4 +9,6 @@ The `bible.json` file is structured such that the keys are `"<book number>:<chap
 
 Currently, this translation has not been extensively reviewed, and as such, is specifically open for review.
 
+To view the files, either download the repository, which allows for more flexibility, or when trying to view them here, be sure to click on "view raw", as the files are too big to automatically display on this site.
+
 This translation is used by the website [ofChrist.life](https://ofchrist.life).
