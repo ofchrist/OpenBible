@@ -14,10 +14,11 @@ The verses.txt file is simply every verse, in order, each on a single line, form
 `<book number>:<chapter number>:<verse number>/<verse text>`
 
 ## `bible.json`
-The bible.json file is structured using JavaScript Object Notation (JSON) such that the keys are:
+The bible.json file is structured using JavaScript Object Notation (JSON):
 
-`"<book number>:<chapter number>"`, 
+`"<book number>:<chapter number>" : ["<verse 1 text>", "<verse 2 text>" ... "<verse n text>"]`  
+<br />  
+<br />  
+<br />
 
-and the values for each key are an array/list of verses, in order, for that chapter.
-
-This translation is used by the website [ofChrist.life](https://ofchrist.life).
+*This translation is used by the website [ofChrist.life](https://ofchrist.life).*
