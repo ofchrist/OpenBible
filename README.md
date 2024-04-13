@@ -21,10 +21,10 @@ The bible.json file is structured using JavaScript Object Notation (JSON):
 ### Contact
 Join the chat on [Keet.io](https://keet.io)
 
+<img src="https://github.com/ofchrist/OpenBible/assets/162595228/eeb93f0b-cdab-403c-a66c-baca4f274d5c" width="250" height="250">
+<br />
 pear://keet/yry5hhsarabxr9energe93ef6bmexxruitd9zid35pmx4qgmoyrx35761og1x5f4kekfb679e63687t577ysfszwygmut14uuzhxre1jbw
-
 <br />  
 <br />  
 <br />
-
 *This translation is used by the website [ofChrist.life](https://ofchrist.life).*
