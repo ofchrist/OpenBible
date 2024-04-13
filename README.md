@@ -5,7 +5,7 @@ This Bible translation was generated using an A.I. model (GPT 3.5 Turbo) from Op
 
 Currently, this translation has not been extensively reviewed, and as such, is specifically open for review. To raise an issue, please utilize the [Issues](https://github.com/ofchrist/OpenBible/issues) tab, where issues, concerns, and suggestions may be addressed.
 
-To view the files, you can either download the repository/files, which allows for more flexibility, or when trying to view them here, be sure to click on "View raw", as the files are too big to automatically display on this site. For those unfamiliar with using repositories, simply click on the green `<> Code` button up and to the right, then select "Download Zip". Once downloaded, open the zip file to unzip it, and the files will be in the unzipped folder.
+To view the files, you can either download the repository/files, which allows for more flexibility, or when trying to view them here, be sure to click on "View Raw", as the files are too big to automatically display on this site. For those unfamiliar with using repositories, simply click on the green `<> Code` button up and to the right, then select "Download Zip". Once downloaded, open the zip file to unzip it, and the files will be in the unzipped folder.
 
 ## Files
 ## `verses.txt`
@@ -27,4 +27,5 @@ pear://keet/yry5hhsarabxr9energe93ef6bmexxruitd9zid35pmx4qgmoyrx35761og1x5f4kekf
 <br />  
 <br />  
 <br />
+
 *This translation is used by the website [ofChrist.life](https://ofchrist.life).*
