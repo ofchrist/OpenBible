@@ -19,7 +19,7 @@ The bible.json file is structured using JavaScript Object Notation (JSON):
 `"<book number>:<chapter number>" : ["<verse 1 text>", "<verse 2 text>" ... "<verse n text>"]`  
 
 ### Contact
-Join the chat on [Keet](pear://keet/yry4t9bhieprsdisk3sytp91u8x649u1u8pchcdxdouyyzayg6rzibizai5nd1sgwkg7aqiukkium6oafnmzrn5koyojtutsosb3o33t8y)
+Join the chat on [Keet](https://keet.io)
 
 pear://keet/yry4t9bhieprsdisk3sytp91u8x649u1u8pchcdxdouyyzayg6rzibizai5nd1sgwkg7aqiukkium6oafnmzrn5koyojtutsosb3o33t8y
 
