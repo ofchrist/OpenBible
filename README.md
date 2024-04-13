@@ -1,7 +1,7 @@
 # Open Bible
 A free and open source translation of The Bible.
 
-This Bible translation was generated using an A.I. model (GPT 3.5 Turbo) from OpenAI. The original text used to derive each verse was sourced from the King James Version of The Bible provided by [Project Gutenberg](https://www.gutenberg.org/ebooks/10).
+This Bible translation was generated using an A.I. model (GPT 3.5 Turbo) from OpenAI. The original text used to derive each verse was sourced from the King James Version of The Bible provided by [Project Gutenberg](https://www.gutenberg.org/ebooks/10). Essentially, the model was prompted to merely update the text to use more contemporary english.
 
 Currently, this translation has not been extensively reviewed, and as such, is specifically open for review. To raise an issue, please utilize the [Issues](https://github.com/ofchrist/OpenBible/issues) tab, where issues, concerns, and suggestions may be addressed.
 
