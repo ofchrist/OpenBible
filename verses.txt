@@ -665,7 +665,7 @@
 1:25:6/But to the sons of his concubines, Abraham gave gifts and sent them away from his son Isaac, while he was still alive, to the eastern lands.
 1:25:7/Abraham lived for 175 years.
 1:25:8/Then Abraham passed away, dying at a ripe old age, satisfied with life; and he joined his ancestors in death.
-1:25:9/Isaac and Ishmael, his sons, buried him in the cave of Machpelah, in the field of Ephron son of Zohar the Hittite, near Mamre; 
+1:25:9/Isaac and Ishmael, his sons, buried him in the cave of Machpelah, in the field of Ephron son of Zohar the Hittite, near Mamre;
 1:25:10/This is the field Abraham bought from the Hittites. There Abraham was buried with Sarah, his wife.
 1:25:11/After Abraham's death, God blessed his son Isaac, who lived near the well Lahairoi.
 1:25:12/Here are the descendants of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's servant, bore to Abraham:
@@ -1508,7 +1508,7 @@
 1:50:1/Joseph threw himself on his father's face, cried over him, and kissed him.
 1:50:2/Joseph ordered his servants, the doctors, to preserve his father's body, and the doctors did so to Israel.
 1:50:3/It took forty days to complete the process, as this is the standard time for embalming. The Egyptians grieved for him for seventy days.
-1:50:4/After the mourning period ended, Joseph approached Pharaoh's household and said, "If I have found favor with you, please tell Pharaoh that 
+1:50:4/After the mourning period ended, Joseph approached Pharaoh's household and said, "If I have found favor with you, please tell Pharaoh that
 1:50:5/my father made me promise, saying, 'When I die, bury me in my own tomb that I have prepared in the land of Canaan.' So please let me go and bury my father, and I will return."
 1:50:6/Pharaoh responded, "Go and bury your father, as he made you promise."
 1:50:7/So Joseph went to bury his father, accompanied by all of Pharaoh's servants, the senior members of his household, and all the senior figures of Egypt,
@@ -4608,42 +4608,42 @@
 4:28:30/And one goat, to make atonement for you.
 4:28:31/You must offer them in addition to the regular burnt offering, and its grain offering, (they must be without defect for you) and their drink offerings.
 4:29:1/On the first day of the seventh month, you must have a sacred gathering; you are not to do any regular work: it is a day for blowing trumpets for you.
-4:29:2/You must present a burnt offering as a pleasing aroma to the LORD; one young bull, one ram, and seven lambs of the first year without any defects: 
-4:29:3/Their grain offering must be flour mixed with oil, three-tenths of an ephah for the bull, and two-tenths for the ram, 
-4:29:4/And one-tenth for each lamb, for all seven lambs: 
-4:29:5/And one goat for a sin offering, to make atonement for you: 
+4:29:2/You must present a burnt offering as a pleasing aroma to the LORD; one young bull, one ram, and seven lambs of the first year without any defects:
+4:29:3/Their grain offering must be flour mixed with oil, three-tenths of an ephah for the bull, and two-tenths for the ram,
+4:29:4/And one-tenth for each lamb, for all seven lambs:
+4:29:5/And one goat for a sin offering, to make atonement for you:
 4:29:6/In addition to the monthly burnt offering, its grain offering, the regular burnt offering, its grain offering, and their drink offerings, according to the prescribed rules, as a pleasing aroma, an offering made by fire to the LORD.
-4:29:7/On the tenth day of this seventh month you must have a sacred gathering; you must humble yourselves: you are not to do any work on that day: 
-4:29:8/But you must present a burnt offering to the LORD as a pleasing aroma; one young bull, one ram, and seven lambs of the first year; they must be without any defects for you: 
-4:29:9/Their grain offering must be flour mixed with oil, three-tenths of an ephah for the bull, and two-tenths for the ram, 
-4:29:10/One-tenth for each lamb, for all seven lambs: 
+4:29:7/On the tenth day of this seventh month you must have a sacred gathering; you must humble yourselves: you are not to do any work on that day:
+4:29:8/But you must present a burnt offering to the LORD as a pleasing aroma; one young bull, one ram, and seven lambs of the first year; they must be without any defects for you:
+4:29:9/Their grain offering must be flour mixed with oil, three-tenths of an ephah for the bull, and two-tenths for the ram,
+4:29:10/One-tenth for each lamb, for all seven lambs:
 4:29:11/One goat for a sin offering; in addition to the sin offering for atonement, the regular burnt offering, its grain offering, and their drink offerings.
-4:29:12/On the fifteenth day of the seventh month you must have a sacred gathering; you are not to do any regular work, and you must celebrate a festival to the LORD for seven days: 
-4:29:13/You must present a burnt offering, an offering made by fire, as a pleasing aroma to the LORD; thirteen young bulls, two rams, and fourteen lambs of the first year; they must be without any defects: 
-4:29:14/Their grain offering must be flour mixed with oil, three-tenths of an ephah for each of the thirteen bulls, two-tenths for each ram, 
-4:29:15/And one-tenth for each of the fourteen lambs: 
+4:29:12/On the fifteenth day of the seventh month you must have a sacred gathering; you are not to do any regular work, and you must celebrate a festival to the LORD for seven days:
+4:29:13/You must present a burnt offering, an offering made by fire, as a pleasing aroma to the LORD; thirteen young bulls, two rams, and fourteen lambs of the first year; they must be without any defects:
+4:29:14/Their grain offering must be flour mixed with oil, three-tenths of an ephah for each of the thirteen bulls, two-tenths for each ram,
+4:29:15/And one-tenth for each of the fourteen lambs:
 4:29:16/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and its drink offering.
-4:29:17/On the second day you must offer twelve young bulls, two rams, fourteen lambs of the first year without any defects: 
-4:29:18/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed: 
+4:29:17/On the second day you must offer twelve young bulls, two rams, fourteen lambs of the first year without any defects:
+4:29:18/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed:
 4:29:19/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and their drink offerings.
-4:29:20/On the third day eleven bulls, two rams, fourteen lambs of the first year without any defects; 
-4:29:21/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed: 
+4:29:20/On the third day eleven bulls, two rams, fourteen lambs of the first year without any defects;
+4:29:21/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed:
 4:29:22/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and its drink offering.
-4:29:23/On the fourth day ten bulls, two rams, and fourteen lambs of the first year without any defects: 
-4:29:24/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed: 
+4:29:23/On the fourth day ten bulls, two rams, and fourteen lambs of the first year without any defects:
+4:29:24/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed:
 4:29:25/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and its drink offering.
-4:29:26/On the fifth day nine bulls, two rams, and fourteen lambs of the first year without any defects: 
-4:29:27/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed: 
+4:29:26/On the fifth day nine bulls, two rams, and fourteen lambs of the first year without any defects:
+4:29:27/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed:
 4:29:28/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and its drink offering.
-4:29:29/On the sixth day eight bulls, two rams, and fourteen lambs of the first year without any defects: 
-4:29:30/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed: 
+4:29:29/On the sixth day eight bulls, two rams, and fourteen lambs of the first year without any defects:
+4:29:30/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed:
 4:29:31/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and its drink offering.
-4:29:32/On the seventh day seven bulls, two rams, and fourteen lambs of the first year without any defects: 
-4:29:33/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed: 
+4:29:32/On the seventh day seven bulls, two rams, and fourteen lambs of the first year without any defects:
+4:29:33/Their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, must be according to their number, as prescribed:
 4:29:34/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and its drink offering.
-4:29:35/On the eighth day you must have a solemn assembly: you are not to do any regular work on that day: 
-4:29:36/But you must present a burnt offering, an offering made by fire, as a pleasing aroma to the LORD: one bull, one ram, seven lambs of the first year without any defects: 
-4:29:37/Their grain offering and their drink offerings for the bull, for the ram, and for the lambs, must be according to their number, as prescribed: 
+4:29:35/On the eighth day you must have a solemn assembly: you are not to do any regular work on that day:
+4:29:36/But you must present a burnt offering, an offering made by fire, as a pleasing aroma to the LORD: one bull, one ram, seven lambs of the first year without any defects:
+4:29:37/Their grain offering and their drink offerings for the bull, for the ram, and for the lambs, must be according to their number, as prescribed:
 4:29:38/And one goat for a sin offering; in addition to the regular burnt offering, its grain offering, and its drink offering.
 4:29:39/These things you must do for the LORD at your appointed festivals, in addition to your vows, and your freewill offerings, for your burnt offerings, for your grain offerings, for your drink offerings, and for your peace offerings.
 4:29:40/And Moses told the children of Israel everything just as the LORD commanded Moses.
@@ -8081,9 +8081,9 @@
 10:2:31/But David's servants had struck down three hundred and sixty men from Benjamin and Abner's forces.
 10:2:32/They took Asahel and buried him in his father's tomb in Bethlehem. Then Joab and his men marched through the night and reached Hebron at dawn.
 10:3:1/There was a prolonged conflict between Saul's family and David's family: but David's power grew stronger, while Saul's family became weaker.
-10:3:2/David had several sons born to him in Hebron: his firstborn was Amnon, with Ahinoam from Jezreel; 
-10:3:3/His second son was Chileab, with Abigail, the widow of Nabal from Carmel; the third was Absalom, son of Maacah, the daughter of King Talmai of Geshur; 
-10:3:4/The fourth was Adonijah, son of Haggith; the fifth, Shephatiah, son of Abital; 
+10:3:2/David had several sons born to him in Hebron: his firstborn was Amnon, with Ahinoam from Jezreel;
+10:3:3/His second son was Chileab, with Abigail, the widow of Nabal from Carmel; the third was Absalom, son of Maacah, the daughter of King Talmai of Geshur;
+10:3:4/The fourth was Adonijah, son of Haggith; the fifth, Shephatiah, son of Abital;
 10:3:5/And the sixth, Ithream, with Eglah, David’s wife. These sons were born to David in Hebron.
 10:3:6/During the conflict between Saul's family and David's, Abner strengthened his position in Saul's family.
 10:3:7/Saul had a concubine named Rizpah, daughter of Aiah. Ishbosheth confronted Abner, asking why he had slept with his father's concubine.
@@ -9282,11 +9282,11 @@
 11:15:32/There was constant war between Asa and Baasha king of Israel throughout their reigns.
 11:15:33/In the third year of Asa king of Judah, Baasha son of Ahijah became king over all Israel in Tirzah and reigned for twenty-four years.
 11:15:34/He did evil in the eyes of the LORD, following the ways of Jeroboam and leading Israel into sin.
-11:16:1/Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying, 
+11:16:1/Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,
 11:16:2/Since I lifted you from obscurity and made you leader over my people Israel, but you have followed Jeroboam's ways, causing my people Israel to sin and angering me with their sins;
 11:16:3/Behold, I will eliminate the descendants of Baasha, and the descendants of his house; and will make your house like the house of Jeroboam the son of Nebat.
 11:16:4/Anyone from Baasha's family who dies in the city will be eaten by dogs; and those who die in the fields will be eaten by the birds of the air.
-11:16:5/Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel? 
+11:16:5/Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?
 11:16:6/So Baasha rested with his ancestors, and was buried in Tirzah: and Elah his son reigned in his place.
 11:16:7/And also through the prophet Jehu the son of Hanani, the word of the LORD came against Baasha, and against his house, for all the evil he did in the sight of the LORD, provoking him to anger with the work of his hands, by being like the house of Jeroboam; and because he killed him.
 11:16:8/In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha began to reign over Israel in Tirzah, for two years.
@@ -9301,14 +9301,14 @@
 11:16:17/And Omri went up from Gibbethon, with all Israel, and they besieged Tirzah.
 11:16:18/And it happened, when Zimri saw that the city was taken, he went into the palace of the king’s house, and burned the king’s house over him with fire, and died.
 11:16:19/For his sins which he sinned, doing evil in the sight of the LORD, walking in the way of Jeroboam, and in his sin which he did, making Israel to sin.
-11:16:20/Now the rest of the acts of Zimri, and his treason that he committed, are they not written in the book of the chronicles of the kings of Israel? 
+11:16:20/Now the rest of the acts of Zimri, and his treason that he committed, are they not written in the book of the chronicles of the kings of Israel?
 11:16:21/Then the people of Israel were divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.
 11:16:22/But the people who followed Omri prevailed against the people who followed Tibni the son of Ginath: so Tibni died, and Omri reigned.
 11:16:23/In the thirty-first year of Asa king of Judah, Omri began to reign over Israel, for twelve years: six years he reigned in Tirzah.
 11:16:24/And he bought the hill Samaria from Shemer for two talents of silver, built on the hill, and named the city he built after Shemer, the owner of the hill, Samaria.
 11:16:25/But Omri did evil in the eyes of the LORD, and acted worse than all those before him.
 11:16:26/For he followed all the ways of Jeroboam the son of Nebat, and in his sins which made Israel to sin, provoking the LORD God of Israel to anger with their worthless idols.
-11:16:27/Now the rest of the acts of Omri which he did, and his might that he showed, are they not written in the book of the chronicles of the kings of Israel? 
+11:16:27/Now the rest of the acts of Omri which he did, and his might that he showed, are they not written in the book of the chronicles of the kings of Israel?
 11:16:28/So Omri rested with his ancestors, and was buried in Samaria: and Ahab his son reigned in his place.
 11:16:29/And in the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty-two years.
 11:16:30/And Ahab the son of Omri did evil in the sight of the LORD more than all those before him.
@@ -9408,7 +9408,7 @@
 11:19:20/Elisha then left the oxen, ran after Elijah, and said, "Let me kiss my father and mother goodbye, and then I will follow you." Elijah replied, "Go back. What have I done to you?"
 11:19:21/So Elisha turned back from him, took a pair of oxen, slaughtered them, and cooked the meat using the plowing equipment, and gave it to the people, and they ate. Then he set out to follow Elijah and became his attendant.
 11:20:1/And Benhadad, the king of Syria, gathered all his forces together: there were thirty-two kings with him, along with horses and chariots. He advanced to besiege Samaria and waged war against it.
-11:20:2/He sent messengers to Ahab, king of Israel, inside the city, saying to him, "This is what Benhadad demands: 
+11:20:2/He sent messengers to Ahab, king of Israel, inside the city, saying to him, "This is what Benhadad demands:
 11:20:3/Your silver and gold are mine; your wives and your children, even the most attractive ones, belong to me."
 11:20:4/The king of Israel responded, "As you say, my lord, O king, I and all I have are yours."
 11:20:5/The messengers returned and said, "Benhadad insists, 'Although I demanded your silver, gold, wives, and children,
@@ -10904,7 +10904,7 @@
 13:18:13/He placed military garrisons in Edom, and all the Edomites became David's subjects. Thus, the LORD protected David wherever he went.
 13:18:14/So David ruled over all Israel, administering justice and fairness to all his people.
 13:18:15/Joab, son of Zeruiah, was in charge of the army; Jehoshaphat, son of Ahilud, was the recorder.
-13:18:16/Zadok, son of Ahitub, and Abimelech, son of Abiathar, were the priests; and Shavsha was the secretary; 
+13:18:16/Zadok, son of Ahitub, and Abimelech, son of Abiathar, were the priests; and Shavsha was the secretary;
 13:18:17/Benaiah, son of Jehoiada, was in charge of the Cherethites and Pelethites; and David's sons were key advisors to the king.
 13:19:1/After this event, Nahash, the king of the Ammonites, passed away, and his son succeeded him as king.
 13:19:2/David said, "I will show kindness to Hanun, Nahash's son, because his father was kind to me." So, David sent messengers to comfort him about his father's death. David's servants arrived in Ammonite territory to console Hanun.
@@ -11006,13 +11006,13 @@
 13:23:22/And Eleazar died, leaving no sons, only daughters: and their cousins, the sons of Kish, married them.
 13:23:23/The sons of Mushi; Mahli, Eder, and Jeremoth, three.
 13:23:24/These were the sons of Levi by their ancestral houses; even the leaders of the fathers, as they were counted by name individually, who worked in the service of the house of the LORD, from the age of twenty years and older.
-13:23:25/For David said, The LORD God of Israel has given rest to his people, so they may live in Jerusalem forever: 
+13:23:25/For David said, The LORD God of Israel has given rest to his people, so they may live in Jerusalem forever:
 13:23:26/And also to the Levites; they will no longer carry the tabernacle, nor any of its equipment for its service.
-13:23:27/For by David's final instructions, the Levites were counted from twenty years old and older: 
-13:23:28/Because their duty was to assist the sons of Aaron in the service of the LORD's house, in the courtyards, and in the rooms, and in the purification of all holy things, and the work of the service of the house of God; 
-13:23:29/Including for the showbread, and for the fine flour for grain offerings, and for the unleavened bread, and for what is baked in the pan, and for what is fried, and for all kinds of measurements and sizes; 
-13:23:30/And to stand every morning to thank and praise the LORD, and likewise in the evening: 
-13:23:31/And to offer all burnt offerings to the LORD on the sabbaths, on the new moons, and on the appointed feasts, by number, according to the regulation commanded to them, continually before the LORD: 
+13:23:27/For by David's final instructions, the Levites were counted from twenty years old and older:
+13:23:28/Because their duty was to assist the sons of Aaron in the service of the LORD's house, in the courtyards, and in the rooms, and in the purification of all holy things, and the work of the service of the house of God;
+13:23:29/Including for the showbread, and for the fine flour for grain offerings, and for the unleavened bread, and for what is baked in the pan, and for what is fried, and for all kinds of measurements and sizes;
+13:23:30/And to stand every morning to thank and praise the LORD, and likewise in the evening:
+13:23:31/And to offer all burnt offerings to the LORD on the sabbaths, on the new moons, and on the appointed feasts, by number, according to the regulation commanded to them, continually before the LORD:
 13:23:32/And that they should keep the responsibility of the tabernacle of meeting, and the responsibility of the holy place, and the responsibility of the sons of Aaron their brothers, in the service of the house of the LORD.
 13:24:1/Here are the divisions of Aaron's sons: Nadab, Abihu, Eleazar, and Ithamar were Aaron's sons.
 13:24:2/But Nadab and Abihu died before their father without having any children, so Eleazar and Ithamar took on the role of priests.
@@ -12400,7 +12400,7 @@
 16:5:17/Furthermore, at my table were 150 Jews and officials, in addition to those who came to us from the nations around us.
 16:5:18/Now what was prepared for me daily was one ox and six choice sheep, and birds, and every ten days an abundant supply of wine of all kinds. Yet with all this, I did not demand the governor's provisions, because the demands were heavy on this people.
 16:5:19/Remember me with favor, my God, for all I have done for these people.
-16:6:1/When Sanballat, Tobiah, Geshem the Arabian, and our other enemies found out that I had rebuilt the wall without any gaps left in it (even though I hadn't yet installed the gates), 
+16:6:1/When Sanballat, Tobiah, Geshem the Arabian, and our other enemies found out that I had rebuilt the wall without any gaps left in it (even though I hadn't yet installed the gates),
 16:6:2/Sanballat and Geshem sent me a message, suggesting we meet in one of the villages in the plain of Ono. But they were planning to harm me.
 16:6:3/I sent messengers back to them, saying, "I'm working on a big project and can't come down. Why should the work stop while I leave it to come down to you?"
 16:6:4/They kept sending me the same message four times, and I responded in the same way each time.
@@ -13028,7 +13028,7 @@
 18:7:19/How long will you not look away from me, nor leave me alone even to swallow my saliva?
 18:7:20/I have sinned; what can I do for you, O guardian of humanity? Why have you made me your target, so that I am a burden to myself?
 18:7:21/And why do you not forgive my transgression and take away my sin? For now, I will lie down in the dust; and you will seek me in the morning, but I will be no more.
-18:8:1/Then answered Bildad the Shuhite, and said, 
+18:8:1/Then answered Bildad the Shuhite, and said,
 18:8:2/How long will you keep talking like this? And how long will your words be as forceful as a strong wind?
 18:8:3/Does God twist justice? Or does the Almighty twist what is right?
 18:8:4/If your children have sinned against him, and he has rejected them because of their sin;
@@ -13460,10 +13460,10 @@
 18:24:23/Though he is given safety, on which he relies; yet his eyes are on their ways.
 18:24:24/They are lifted up for a little while, but then are gone and brought low; they are removed as all others, and cut off like the tops of the ears of corn.
 18:24:25/And if it is not so now, who will prove me a liar, and make my speech worthless?
-18:25:1/Then answered Bildad the Shuhite, and said, 
+18:25:1/Then answered Bildad the Shuhite, and said,
 18:25:2/Power and awe belong to him; he establishes peace in his heavenly realms.
-18:25:3/Can his armies be counted? And who doesn't bask in his light? 
-18:25:4/So how can a person be right with God? Or how can someone born of a woman be pure? 
+18:25:3/Can his armies be counted? And who doesn't bask in his light?
+18:25:4/So how can a person be right with God? Or how can someone born of a woman be pure?
 18:25:5/Look even at the moon, it doesn't shine bright; even the stars aren't clean in his eyes.
 18:25:6/How much less significant is a person, who is but a worm? And the children of humanity, who are also but worms?
 18:26:1/But Job replied, saying,
@@ -13480,22 +13480,22 @@
 18:26:12/With his power, he parts the sea, and with his wisdom, he strikes down the haughty.
 18:26:13/By his spirit, he has adorned the heavens; his hand has shaped the fleeing serpent.
 18:26:14/Behold, these are but the outskirts of his ways; and how faint is the whisper we hear of him? But the thunder of his power, who can comprehend?
-18:27:1/Moreover Job continued his parable, and said, 
+18:27:1/Moreover Job continued his parable, and said,
 18:27:2/As God lives, who has taken away my right to justice; and the Almighty, who has troubled my soul;
-18:27:3/As long as I breathe, and the spirit of God is in my nostrils; 
+18:27:3/As long as I breathe, and the spirit of God is in my nostrils;
 18:27:4/My lips will not speak evil, nor will my tongue utter lies.
 18:27:5/I refuse to justify you: until I die, I will not compromise my integrity.
 18:27:6/I will firmly hold onto my righteousness and will not let it go: my heart will not reproach me as long as I live.
 18:27:7/May my enemy be like the wicked, and those who rise up against me like the unrighteous.
-18:27:8/For what hope does the hypocrite have, even if he gains, when God takes away his life? 
-18:27:9/Will God listen to his cry when trouble comes upon him? 
-18:27:10/Will he find joy in the Almighty? Will he always call upon God? 
+18:27:8/For what hope does the hypocrite have, even if he gains, when God takes away his life?
+18:27:9/Will God listen to his cry when trouble comes upon him?
+18:27:10/Will he find joy in the Almighty? Will he always call upon God?
 18:27:11/I will teach you about the ways of God: I will not hide what is with the Almighty.
-18:27:12/See, all of you have witnessed it; why then do you act so foolishly? 
+18:27:12/See, all of you have witnessed it; why then do you act so foolishly?
 18:27:13/This is what a wicked person will receive from God, and the inheritance of oppressors from the Almighty.
 18:27:14/If his children multiply, they are destined for the sword: and his descendants will not have enough to eat.
 18:27:15/Those who survive him will be buried in death: and his widows will not mourn.
-18:27:16/Even if he accumulates silver like dust, and piles up clothing like clay; 
+18:27:16/Even if he accumulates silver like dust, and piles up clothing like clay;
 18:27:17/He may pile it up, but the righteous will wear it, and the innocent will share the silver.
 18:27:18/He builds his house as fragile as a moth's cocoon, and like a shack that a watchman makes.
 18:27:19/The wealthy man will lie down, but he will not be gathered up: he opens his eyes, and he is gone.
@@ -13531,17 +13531,17 @@
 18:28:26/When he set a law for the rain, and a path for the thunderstorm,
 18:28:27/Then he saw it and declared it; he established it, and also searched it out.
 18:28:28/And to humanity he said, 'Look, the fear of the Lord, that is wisdom; and to turn away from evil is understanding.'
-18:29:1/Moreover Job continued his parable, and said, 
-18:29:2/I wish I could go back to the months past, to the days when God looked after me; 
-18:29:3/When his light shone over my head, and by his light, I walked through darkness; 
-18:29:4/Back to the days of my youth, when God's mystery was over my home; 
-18:29:5/When the Almighty was still with me, and my children were around me; 
-18:29:6/When my paths were smooth as if washed with cream, and the rocks flowed with oil for me; 
+18:29:1/Moreover Job continued his parable, and said,
+18:29:2/I wish I could go back to the months past, to the days when God looked after me;
+18:29:3/When his light shone over my head, and by his light, I walked through darkness;
+18:29:4/Back to the days of my youth, when God's mystery was over my home;
+18:29:5/When the Almighty was still with me, and my children were around me;
+18:29:6/When my paths were smooth as if washed with cream, and the rocks flowed with oil for me;
 18:29:7/When I walked out to the city gate, when I took my place in the public square!
 18:29:8/Young men saw me and hid, while the elderly stood up in respect.
 18:29:9/Leaders stopped speaking and covered their mouths with their hands.
 18:29:10/The nobles were silent, their tongues stuck to the roof of their mouths.
-18:29:11/When people heard me, they praised me; and when they saw me, they approved. 
+18:29:11/When people heard me, they praised me; and when they saw me, they approved.
 18:29:12/Because I helped the poor who cried out, the orphans, and those with no one to assist them.
 18:29:13/The blessing of those about to perish came upon me; and I made the widow's heart sing with joy.
 18:29:14/I wore righteousness like clothing; my fairness was like a robe and a crown.
@@ -13735,14 +13735,14 @@
 18:35:14/Even though you claim you can't see Him, judgment is before Him; so you should trust in Him.
 18:35:15/But now, because things are not as you say, He has acted out of anger; yet you do not recognize the severity of it.
 18:35:16/Therefore, Job speaks without purpose; he multiplies words without understanding.
-18:36:1/Elihu also proceeded, and said, 
+18:36:1/Elihu also proceeded, and said,
 18:36:2/Allow me a moment, and I will show you that I still have things to say about God.
 18:36:3/I will bring my knowledge from afar, and will attribute righteousness to my Creator.
 18:36:4/Indeed, my words will be truthful: someone with perfect knowledge is with you.
 18:36:5/Look, God is powerful, and does not despise anyone: he is mighty in strength and wisdom.
 18:36:6/He does not preserve the life of the wicked: but gives justice to the poor.
 18:36:7/He does not take his eyes off the righteous: but with kings, they are on the throne; yes, he establishes them forever, and they are lifted high.
-18:36:8/And if they are bound in chains, and caught in the ropes of suffering; 
+18:36:8/And if they are bound in chains, and caught in the ropes of suffering;
 18:36:9/Then he shows them their actions, and their sins that they have gone beyond.
 18:36:10/He also opens their ear to correction, and commands that they turn away from sin.
 18:36:11/If they listen and serve him, they will spend their days in prosperity, and their years in joy.
@@ -13756,14 +13756,14 @@
 18:36:19/Will he value your wealth? No, not gold, nor all the forces of power.
 18:36:20/Do not long for the night, when people are cut off in their place.
 18:36:21/Be careful, do not look favorably on sin: for you have chosen this rather than suffering.
-18:36:22/Look, God is lifted high by his power: who teaches like him? 
-18:36:23/Who has directed his path? or who can say, You have done wrong? 
+18:36:22/Look, God is lifted high by his power: who teaches like him?
+18:36:23/Who has directed his path? or who can say, You have done wrong?
 18:36:24/Remember to praise his work, which people observe.
 18:36:25/Everyone can see it; people can view it from afar.
 18:36:26/Look, God is immense, and we do not fully understand him, nor can the number of his years be discovered.
-18:36:27/For he makes small the drops of water: they pour down rain according to its vapor: 
+18:36:27/For he makes small the drops of water: they pour down rain according to its vapor:
 18:36:28/Which the clouds drop and distill upon people abundantly.
-18:36:29/Can anyone understand the spreading of the clouds, or the thunder from his dwelling? 
+18:36:29/Can anyone understand the spreading of the clouds, or the thunder from his dwelling?
 18:36:30/Look, he spreads his light over it, and covers the depths of the sea.
 18:36:31/For by these, he judges the people; he provides food in abundance.
 18:36:32/With clouds, he covers the light; and commands it not to shine through the cloud that comes between.
@@ -17486,7 +17486,7 @@
 21:9:10/Whatever your hand finds to do, do it with all your strength; for there is no activity, planning, knowledge, or wisdom in the grave where you are heading.
 21:9:11/I observed and saw under the sun that the race is not always won by the swift, nor the battle by the strong, nor does food always come to the wise, nor wealth to the intelligent, nor favor to the knowledgeable; but time and chance happen to them all.
 21:9:12/For people do not know their time: like fish caught in a cruel net, and birds trapped in a snare, so are humans ensnared at an unfortunate time when it suddenly falls upon them.
-21:9:13/This wisdom I have also seen under the sun, and it seemed significant to me: 
+21:9:13/This wisdom I have also seen under the sun, and it seemed significant to me:
 21:9:14/There was a small city with few people in it; and a great king came against it, besieged it, and built huge siege works against it.
 21:9:15/But there was found in it a poor wise man, and he by his wisdom saved the city; yet no one remembered that poor man afterward.
 21:9:16/Then I said, Wisdom is better than strength: but the poor man's wisdom is ignored, and his words are not heeded.
@@ -17783,14 +17783,14 @@
 23:6:13/But even then, a tenth will remain in it, and it will again be subject to burning, like a terebinth or an oak, whose stump remains when it is cut down. The holy seed will be its stump.
 23:7:1/In the time of Ahaz son of Jotham, son of Uzziah, king of Judah, Rezin king of Syria, and Pekah son of Remaliah, king of Israel, attacked Jerusalem but failed to conquer it.
 23:7:2/News reached the royal family of David: "Syria has allied with Ephraim." This news shook Ahaz and his people like wind shaking trees in a forest.
-23:7:3/Then the LORD said to Isaiah, "Go out to meet Ahaz, you and your son Shearjashub, at the end of the upper pool's conduit on the fuller’s field road; 
+23:7:3/Then the LORD said to Isaiah, "Go out to meet Ahaz, you and your son Shearjashub, at the end of the upper pool's conduit on the fuller’s field road;
 23:7:4/And tell him, 'Stay calm and don't be afraid. Don't lose heart because of these two smoldering stubs of firewood—Rezin of Syria and Pekah son of Remaliah.'
-23:7:5/Because Syria, Ephraim, and the son of Remaliah have plotted your downfall, saying, 
+23:7:5/Because Syria, Ephraim, and the son of Remaliah have plotted your downfall, saying,
 23:7:6/'Let's attack Judah, stir up trouble, and install the son of Tabeal as king in the midst of it.'
 23:7:7/But the Sovereign LORD says, 'This will not happen; it will not come to be.'
 23:7:8/'The capital of Syria is Damascus, and the head of Damascus is Rezin. Within sixty-five years, Ephraim will be shattered, no longer a nation.'
 23:7:9/'The capital of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you do not stand firm in faith, you will not stand at all.'
-23:7:10/Furthermore, the LORD spoke to Ahaz, saying, 
+23:7:10/Furthermore, the LORD spoke to Ahaz, saying,
 23:7:11/'Ask for a sign from the LORD your God; let it be deep as the grave or high as the sky.'
 23:7:12/But Ahaz said, 'I will not ask; I will not put the LORD to the test.'
 23:7:13/Then Isaiah said, 'Listen now, house of David! Is it not enough to try the patience of humans, will you also try the patience of my God?'
@@ -17801,7 +17801,7 @@
 23:7:18/In that day, the LORD will whistle for the flies from the farthest streams of Egypt and for the bees from the land of Assyria.
 23:7:19/They will all come and settle in the steep ravines, in the crevices of the rocks, on all the thornbushes, and at all the water holes.
 23:7:20/On that day, the Lord will use a razor hired from beyond the Euphrates River—the king of Assyria—to shave your head, the hair of your legs, and also to remove your beard.
-23:7:21/In that day, a person will keep alive a young cow and two sheep; 
+23:7:21/In that day, a person will keep alive a young cow and two sheep;
 23:7:22/And because of the abundance of milk they give, everyone left in the land will eat curds and honey.
 23:7:23/In that day, every place where there used to be a thousand vines worth a thousand silver coins, will be overrun with briers and thorns.
 23:7:24/People will go there with bows and arrows because the whole land will be briers and thorns.
@@ -18040,8 +18040,8 @@
 23:21:4/My heart races, terror overwhelms me; the night that was meant for joy has turned into fear for me.
 23:21:5/Set the table, keep watch from the watchtower, eat, drink: get up, you leaders, and prepare for battle.
 23:21:6/For this is what the LORD says to me, "Go, post a lookout and let him report what he sees.
-23:21:7/And he saw a chariot with a pair of horsemen, a chariot of donkeys, and a chariot of camels; and he paid close attention, very carefully: 
-23:21:8/And he shouted, 'A lion!' 'My lord, I stand constantly on the watchtower during the day, and I am stationed at my guard post every night: 
+23:21:7/And he saw a chariot with a pair of horsemen, a chariot of donkeys, and a chariot of camels; and he paid close attention, very carefully:
+23:21:8/And he shouted, 'A lion!' 'My lord, I stand constantly on the watchtower during the day, and I am stationed at my guard post every night:
 23:21:9/And look, here comes a chariot of men, with a pair of horsemen. And he replied and said, 'Babylon has fallen, has fallen; and all the images of her gods lie shattered on the ground.'
 23:21:10/O my threshed people, and the grain of my threshing floor: what I have heard from the LORD of hosts, the God of Israel, I have told you.
 23:21:11/The message concerning Dumah. Someone calls to me from Seir, 'Watchman, what is left of the night? Watchman, what is left of the night?'
@@ -18898,7 +18898,7 @@
 23:64:12/Will you restrain yourself at these things, O LORD? Will you keep silent and afflict us so severely?
 23:65:1/I am sought by those who did not ask for me; I am found by those who did not seek me. I said, "Here I am, here I am," to a nation that did not call on my name.
 23:65:2/I have reached out my hands all day long to a rebellious people, who walk in paths not good, following their own ideas;
-23:65:3/A people who constantly provoke me to anger right to my face; who offer sacrifices in gardens, and burn incense on altars made of bricks; 
+23:65:3/A people who constantly provoke me to anger right to my face; who offer sacrifices in gardens, and burn incense on altars made of bricks;
 23:65:4/Who stay among the graves, and spend nights in secret places, who eat pork, and their pots hold broth of detestable things;
 23:65:5/Who say, 'Keep away, don't come near me, for I am too sacred for you.' Such people are like smoke in my nostrils, a fire that keeps burning all day.
 23:65:6/See, it is written before me: I will not keep silent but will repay, will indeed repay into their laps,
@@ -18945,10 +18945,10 @@
 23:66:22/"For as the new heavens and the new earth that I will make will endure before me," declares the LORD, "so will your descendants and your name endure.
 23:66:23/And it will happen that from one new moon to another and from one Sabbath to another, all humanity will come to worship before me," says the LORD.
 23:66:24/And they will go out and see the corpses of the men who have rebelled against me; for their worm will not die, nor will their fire be quenched, and they will be abhorrent to all humanity.
-24:1:1/The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin: 
+24:1:1/The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
 24:1:2/To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.
 24:1:3/It also came during the days of Jehoiakim the son of Josiah king of Judah, up to the end of the eleventh year of Zedekiah the son of Josiah king of Judah, until the time Jerusalem was taken captive in the fifth month.
-24:1:4/Then the word of the LORD came to me, saying, 
+24:1:4/Then the word of the LORD came to me, saying,
 24:1:5/Before I formed you in the womb I knew you; before you were born I set you apart; I appointed you as a prophet to the nations.
 24:1:6/Then I said, "Ah, Sovereign LORD! I don't know how to speak; I'm too young."
 24:1:7/But the LORD said to me, "Do not say, 'I'm too young.' You must go to everyone I send you to and say whatever I command you.
@@ -20975,7 +20975,7 @@
 26:21:30/Shall I return it to its sheath? I will judge you in the place where you were created, in the land of your origin.
 26:21:31/And I will pour out my indignation on you, I will blow against you with the fire of my wrath, and deliver you into the hands of brutal men, skilled in destruction.
 26:21:32/You will be fuel for the fire; your blood will be in the midst of the land; you will not be remembered: for I, the LORD, have spoken.
-26:22:1/Moreover the word of the LORD came unto me, saying, 
+26:22:1/Moreover the word of the LORD came unto me, saying,
 26:22:2/Now, you, son of man, will you judge, will you judge the bloody city? Yes, you will show her all her abominations.
 26:22:3/Then say, 'This is what the Sovereign LORD says: The city spills blood within itself, hastening its own end, and crafts idols to defile itself.
 26:22:4/You have become guilty by the blood you have shed; you have defiled yourself with the idols you have made; you have brought your days closer and have reached your years. Therefore, I have made you an object of scorn to the nations and a laughingstock to all countries.
@@ -20991,13 +20991,13 @@
 26:22:14/Can your heart endure, or can your hands remain strong, in the days when I deal with you? I the LORD have spoken, and I will act.
 26:22:15/And I will scatter you among the nations and disperse you through the countries, and will purge your uncleanness from you.
 26:22:16/And you will be profaned by your own actions in the sight of the nations, and you will know that I am the LORD.
-26:22:17/And the word of the LORD came unto me, saying, 
+26:22:17/And the word of the LORD came unto me, saying,
 26:22:18/Son of man, the house of Israel has become dross to me; all of them are copper, tin, iron, and lead in the furnace; they are the dross of silver.
 26:22:19/Therefore, this is what the Sovereign LORD says: Because you have all become dross, behold, I will gather you into the heart of Jerusalem.
 26:22:20/As silver, copper, iron, lead, and tin are gathered into a furnace to be melted with a fiery blast, so will I gather you in my anger and my fury, and I will leave you there and melt you.
 26:22:21/Yes, I will gather you and blow on you with the fire of my wrath, and you will be melted within it.
 26:22:22/As silver is melted in a furnace, so you will be melted within it, and you will know that I the LORD have poured out my fury upon you.
-26:22:23/And the word of the LORD came unto me, saying, 
+26:22:23/And the word of the LORD came unto me, saying,
 26:22:24/Son of man, say to her, 'You are the land that has not been cleansed or rained on in the day of wrath.'
 26:22:25/There is a conspiracy of her prophets in her midst, like a roaring lion tearing its prey; they have devoured lives; they have taken treasure and precious things; they have made many widows within her.
 26:22:26/Her priests have violated my law and profaned my holy things. They have not distinguished between the holy and the common; they have not taught the difference between the unclean and the clean; and they have turned their eyes away from my Sabbaths, and I am profaned among them.
@@ -21182,8 +21182,8 @@
 26:28:24/And there will no longer be a prickling brier or a painful thorn for the house of Israel from all those around them who despise them. And they will know that I am the Lord GOD.
 26:28:25/This is what the Lord GOD says: When I gather the house of Israel from the peoples among whom they are scattered, and demonstrate my holiness through them in the sight of the nations, then they will live in their own land, which I gave to my servant Jacob.
 26:28:26/They will live there securely, build houses, and plant vineyards. They will live in safety, when I execute judgments on all their neighbors who despise them. Then they will know that I am the LORD their God.
-26:29:1/In the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying, 
-26:29:2/Son of man, confront Pharaoh king of Egypt, and deliver a prophecy against him and all of Egypt: 
+26:29:1/In the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying,
+26:29:2/Son of man, confront Pharaoh king of Egypt, and deliver a prophecy against him and all of Egypt:
 26:29:3/Say this: 'This is what the Lord GOD says: Look, I am against you, Pharaoh king of Egypt, the mighty dragon lying in the rivers, who claims, "The river is mine; I made it for myself."'
 26:29:4/But I will put hooks in your jaws, and make the fish of your rivers cling to your scales. I will pull you out from your rivers, with all the fish sticking to your scales.
 26:29:5/And I will leave you stranded in the wilderness, you and all the fish of your rivers. You will fall on the open fields; you will not be collected or gathered. I have given you as food to the beasts of the field and the birds of the sky.
@@ -21198,12 +21198,12 @@
 26:29:14/And I will restore the fortunes of Egypt and will bring them back to the land of Pathros, to the place of their origin, and there they will be a lowly kingdom.
 26:29:15/It will be the lowest of kingdoms and will not assert itself above the nations anymore. I will reduce them so they will no longer dominate the nations.
 26:29:16/And Egypt will no longer be a source of confidence for the house of Israel, reminding them of their wrongdoing when they turn to them. But they will know that I am the Lord GOD.
-26:29:17/And it came to pass in the seven and twentieth year, in the first month, in the first day of the month, the word of the LORD came unto me, saying, 
+26:29:17/And it came to pass in the seven and twentieth year, in the first month, in the first day of the month, the word of the LORD came unto me, saying,
 26:29:18/Son of man, Nebuchadnezzar king of Babylon made his army work hard against Tyre: every head was shaved, and every shoulder was rubbed raw. Yet he and his army got no reward from Tyre for the effort they put into it.
 26:29:19/Therefore, this is what the Lord GOD says: Look, I am giving the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off its wealth, seize its goods, and take its plunder; that will be the wages for his army.
 26:29:20/I have given him the land of Egypt as payment for his labor, because they worked for me, says the Lord GOD.
 26:29:21/On that day, I will make the power of the house of Israel grow, and I will enable you to speak out among them; and they will know that I am the LORD.
-26:30:1/The word of the LORD came again unto me, saying, 
+26:30:1/The word of the LORD came again unto me, saying,
 26:30:2/Son of man, prophesy and say, This is what the Lord GOD says; Cry out, 'Alas for the day!'
 26:30:3/For the day is near, even the day of the LORD is near, a cloudy day; it will be a time of judgment for the nations.
 26:30:4/And the sword will come upon Egypt, and great pain will be in Ethiopia, when the slain fall in Egypt, and they take away her multitude, and her foundations are broken down.
@@ -21222,7 +21222,7 @@
 26:30:17/The young men of Aven and of Pibeseth will fall by the sword: and these cities will go into captivity.
 26:30:18/At Tehaphnehes also the day will be darkened, when I break there the yokes of Egypt: and the pride of her strength will end in her: as for her, a cloud will cover her, and her daughters will go into captivity.
 26:30:19/Thus will I execute judgments in Egypt: and they will know that I am the LORD.
-26:30:20/And it came to pass in the eleventh year, in the first month, in the seventh day of the month, that the word of the LORD came unto me, saying, 
+26:30:20/And it came to pass in the eleventh year, in the first month, in the seventh day of the month, that the word of the LORD came unto me, saying,
 26:30:21/Son of man, I have broken the arm of Pharaoh king of Egypt; and, look, it will not be bound up to be healed, to put a splint to bind it, to make it strong to hold the sword.
 26:30:22/Therefore this is what the Lord GOD says; Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.
 26:30:23/And I will scatter the Egyptians among the nations, and will disperse them through the countries.
@@ -22365,18 +22365,18 @@
 29:3:21/I will pardon their bloodshed that I have not pardoned: for the LORD dwells in Zion.
 30:1:1/The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 30:1:2/And he said, The LORD will roar from Zion, and raise His voice from Jerusalem; the homes of the shepherds will grieve, and the summit of Carmel will dry up.
-30:1:3/Thus says the LORD; For three sins of Damascus, and for four, I will not revoke the punishment; because they have brutally threshed Gilead with iron instruments: 
+30:1:3/Thus says the LORD; For three sins of Damascus, and for four, I will not revoke the punishment; because they have brutally threshed Gilead with iron instruments:
 30:1:4/But I will send a fire into Hazael's house, which will consume the palaces of Benhadad.
 30:1:5/I will also break the stronghold of Damascus, and eliminate the inhabitant from the plain of Aven, and the one who holds the scepter from the house of Eden: and the people of Syria will be taken captive to Kir, says the LORD.
 30:1:6/Thus says the LORD; For three sins of Gaza, and for four, I will not revoke the punishment; because they took away an entire population, to hand them over to Edom:
-30:1:7/But I will send a fire on the wall of Gaza, which will consume its palaces: 
+30:1:7/But I will send a fire on the wall of Gaza, which will consume its palaces:
 30:1:8/And I will eliminate the inhabitant from Ashdod, and the one who holds the scepter from Ashkelon, and I will turn my hand against Ekron: and the last of the Philistines will perish, says the Lord GOD.
-30:1:9/Thus says the LORD; For three sins of Tyre, and for four, I will not revoke the punishment; because they handed over an entire population to Edom, and forgot the covenant of brotherhood: 
+30:1:9/Thus says the LORD; For three sins of Tyre, and for four, I will not revoke the punishment; because they handed over an entire population to Edom, and forgot the covenant of brotherhood:
 30:1:10/But I will send a fire on the wall of Tyre, which will consume its palaces.
-30:1:11/Thus says the LORD; For three sins of Edom, and for four, I will not revoke the punishment; because he chased his brother with the sword, showing no compassion, his anger tore perpetually, and he maintained his fury forever: 
+30:1:11/Thus says the LORD; For three sins of Edom, and for four, I will not revoke the punishment; because he chased his brother with the sword, showing no compassion, his anger tore perpetually, and he maintained his fury forever:
 30:1:12/But I will send a fire upon Teman, which will consume the palaces of Bozrah.
-30:1:13/Thus says the LORD; For three sins of the Ammonites, and for four, I will not revoke the punishment; because they have violently ripped open pregnant women in Gilead, to expand their territory: 
-30:1:14/But I will ignite a fire in the wall of Rabbah, and it will consume its palaces, with shouting on the day of battle, with a storm on the day of the whirlwind: 
+30:1:13/Thus says the LORD; For three sins of the Ammonites, and for four, I will not revoke the punishment; because they have violently ripped open pregnant women in Gilead, to expand their territory:
+30:1:14/But I will ignite a fire in the wall of Rabbah, and it will consume its palaces, with shouting on the day of battle, with a storm on the day of the whirlwind:
 30:1:15/And their king will go into captivity, he and his officials together, says the LORD.
 30:2:1/The LORD says: Because Moab has committed four major sins, I won't hold back punishment. They turned the bones of the king of Edom into lime.
 30:2:2/But I will send a fire upon Moab, and it will consume the palaces of Kirioth. Moab will perish amid chaos, shouting, and the sound of the trumpet.
@@ -22975,13 +22975,13 @@
 38:7:12/Yes, they made their hearts as hard as diamond, so they could not hear the law and the messages that the LORD of hosts had sent by his Spirit through the earlier prophets. Therefore, a great anger came from the LORD of hosts.
 38:7:13/So it happened that just as he called and they did not listen, when they called, I did not listen, says the LORD of hosts.
 38:7:14/But I scattered them with a tempest among all the nations they did not know. Thus the land was left desolate behind them, so that no one could come and go. This made the pleasant land desolate.
-38:8:1/Again the word of the LORD of hosts came to me, saying, 
+38:8:1/Again the word of the LORD of hosts came to me, saying,
 38:8:2/The LORD of hosts says; I felt intense jealousy for Zion, a jealousy filled with great passion.
 38:8:3/The LORD says; I have returned to Zion and will live in the heart of Jerusalem: and Jerusalem will be known as a city of truth; and the mountain of the LORD of hosts the holy mountain.
 38:8:4/The LORD of hosts says; Elderly men and women will once again live in the streets of Jerusalem, each leaning on a cane because of their age.
 38:8:5/And the city streets will be filled with boys and girls playing freely.
 38:8:6/The LORD of hosts says; If this seems amazing to the surviving people of this time, should it not seem amazing to me as well? says the LORD of hosts.
-38:8:7/The LORD of hosts says; Look, I will rescue my people from the lands of the east and from the lands of the west; 
+38:8:7/The LORD of hosts says; Look, I will rescue my people from the lands of the east and from the lands of the west;
 38:8:8/And I will bring them back, and they will live in the heart of Jerusalem: they will be my people, and I will be their God, in truth and in righteousness.
 38:8:9/The LORD of hosts says; Be strong, all of you who are listening to these words from the prophets today, words that were spoken on the day the foundation of the LORD of hosts' temple was laid, signaling that the temple would be rebuilt.
 38:8:10/For before these times, there was no pay for work, nor any earnings for animals; there was no peace for anyone coming or going because of the conflict: for I turned everyone against their neighbor.
@@ -22990,11 +22990,11 @@
 38:8:13/And it will happen, just as you were once a curse among the nations, O house of Judah and house of Israel; so I will save you, and you will be a blessing. Do not be afraid, but be strong.
 38:8:14/For this is what the LORD of hosts says; Just as I planned to bring disaster to you when your ancestors angered me, says the LORD of hosts, and I did not relent,
 38:8:15/So now I have planned in these days to do good to Jerusalem and to the house of Judah. Do not be afraid.
-38:8:16/These are the things you must do; Speak the truth to each other; make true and peaceful judgments in your courts; 
+38:8:16/These are the things you must do; Speak the truth to each other; make true and peaceful judgments in your courts;
 38:8:17/And do not plot evil in your hearts against one another; and do not love false oaths: for all these are things that I despise, says the LORD.
-38:8:18/And the word of the LORD of hosts came unto me, saying, 
+38:8:18/And the word of the LORD of hosts came unto me, saying,
 38:8:19/The LORD of hosts says; The fasts of the fourth, fifth, seventh, and tenth months will become times of joy and gladness, and cheerful festivals for the house of Judah. Therefore, love truth and peace.
-38:8:20/The LORD of hosts says; It will happen that people and the inhabitants of many cities will come together; 
+38:8:20/The LORD of hosts says; It will happen that people and the inhabitants of many cities will come together;
 38:8:21/And the residents of one city will go to another, saying, Let's go at once to seek the LORD's favor, to pray before the LORD of hosts: I will go too.
 38:8:22/Indeed, many peoples and powerful nations will come to seek the LORD of hosts in Jerusalem, and to pray before the LORD.
 38:8:23/The LORD of hosts says; In those days, ten people from all languages and nations will grab hold of a Jewish person by the hem of their robe and say, We want to go with you because we have heard that God is with you.
@@ -23144,20 +23144,20 @@
 39:4:5/Look, I will send you Elijah the prophet before the arrival of the great and terrible day of the LORD:
 39:4:6/And he will reconcile the hearts of parents to their children and the hearts of children to their parents, so that I won't come and strike the land with total destruction.
 40:1:1/The record of the ancestry of Jesus Christ, the descendant of David, the descendant of Abraham.
-40:1:2/Abraham fathered Isaac; and Isaac fathered Jacob; and Jacob fathered Judah and his brothers; 
-40:1:3/And Judah fathered Perez and Zerah with Tamar; and Perez fathered Hezron; and Hezron fathered Ram; 
-40:1:4/And Ram fathered Amminadab; and Amminadab fathered Nahshon; and Nahshon fathered Salmon; 
-40:1:5/And Salmon fathered Boaz with Rahab; and Boaz fathered Obed with Ruth; and Obed fathered Jesse; 
-40:1:6/And Jesse fathered King David; and King David fathered Solomon with her who had been Uriah’s wife; 
-40:1:7/And Solomon fathered Rehoboam; and Rehoboam fathered Abijah; and Abijah fathered Asa; 
-40:1:8/And Asa fathered Jehoshaphat; and Jehoshaphat fathered Jehoram; and Jehoram fathered Uzziah; 
+40:1:2/Abraham fathered Isaac; and Isaac fathered Jacob; and Jacob fathered Judah and his brothers;
+40:1:3/And Judah fathered Perez and Zerah with Tamar; and Perez fathered Hezron; and Hezron fathered Ram;
+40:1:4/And Ram fathered Amminadab; and Amminadab fathered Nahshon; and Nahshon fathered Salmon;
+40:1:5/And Salmon fathered Boaz with Rahab; and Boaz fathered Obed with Ruth; and Obed fathered Jesse;
+40:1:6/And Jesse fathered King David; and King David fathered Solomon with her who had been Uriah’s wife;
+40:1:7/And Solomon fathered Rehoboam; and Rehoboam fathered Abijah; and Abijah fathered Asa;
+40:1:8/And Asa fathered Jehoshaphat; and Jehoshaphat fathered Jehoram; and Jehoram fathered Uzziah;
 40:1:9/And Uzziah fathered Jotham; and Jotham fathered Ahaz; and Ahaz fathered Hezekiah;
-40:1:10/And Hezekiah fathered Manasseh; and Manasseh fathered Amon; and Amon fathered Josiah; 
-40:1:11/And Josiah fathered Jeconiah and his brothers, around the time they were deported to Babylon: 
-40:1:12/And after the deportation to Babylon, Jeconiah fathered Shealtiel; and Shealtiel fathered Zerubbabel; 
-40:1:13/And Zerubbabel fathered Abiud; and Abiud fathered Eliakim; and Eliakim fathered Azor; 
-40:1:14/And Azor fathered Zadok; and Zadok fathered Achim; and Achim fathered Eliud; 
-40:1:15/And Eliud fathered Eleazar; and Eleazar fathered Matthan; and Matthan fathered Jacob; 
+40:1:10/And Hezekiah fathered Manasseh; and Manasseh fathered Amon; and Amon fathered Josiah;
+40:1:11/And Josiah fathered Jeconiah and his brothers, around the time they were deported to Babylon:
+40:1:12/And after the deportation to Babylon, Jeconiah fathered Shealtiel; and Shealtiel fathered Zerubbabel;
+40:1:13/And Zerubbabel fathered Abiud; and Abiud fathered Eliakim; and Eliakim fathered Azor;
+40:1:14/And Azor fathered Zadok; and Zadok fathered Achim; and Achim fathered Eliud;
+40:1:15/And Eliud fathered Eleazar; and Eleazar fathered Matthan; and Matthan fathered Jacob;
 40:1:16/And Jacob fathered Joseph, the husband of Mary, from whom was born Jesus, who is called the Messiah.
 40:1:17/Therefore, all the generations from Abraham to David are fourteen generations; and from David to the deportation to Babylon, fourteen generations; and from the deportation to Babylon to the Messiah, fourteen generations.
 40:1:18/Now the birth of Jesus Christ happened like this: When his mother Mary was pledged to be married to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit.
@@ -29056,27 +29056,27 @@
 47:13:12/Greet each other with a sacred kiss.
 47:13:13/All the saints send their greetings.
 47:13:14/May the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit be with you all. Amen.
-48:1:1/Paul, an apostle, (not appointed by people, nor through a person, but by Jesus Christ, and God the Father, who raised him from the dead;) 
-48:1:2/And all the brothers and sisters with me, to the churches in Galatia: 
-48:1:3/May grace and peace be yours from God the Father, and from our Lord Jesus Christ, 
-48:1:4/Who sacrificed himself for our sins, to rescue us from this current evil age, in line with God's will and our Father: 
+48:1:1/Paul, an apostle, (not appointed by people, nor through a person, but by Jesus Christ, and God the Father, who raised him from the dead;)
+48:1:2/And all the brothers and sisters with me, to the churches in Galatia:
+48:1:3/May grace and peace be yours from God the Father, and from our Lord Jesus Christ,
+48:1:4/Who sacrificed himself for our sins, to rescue us from this current evil age, in line with God's will and our Father:
 48:1:5/To whom be glory forever and ever. Amen.
-48:1:6/I'm amazed that you are so quickly deserting the one who called you by the grace of Christ for a different gospel; 
+48:1:6/I'm amazed that you are so quickly deserting the one who called you by the grace of Christ for a different gospel;
 48:1:7/Which is really not another gospel at all. However, there are some who are disturbing you and want to distort the gospel of Christ.
 48:1:8/But even if we, or an angel from heaven, should preach to you a gospel contrary to what we have preached to you, let them be under God's curse.
 48:1:9/As we have said before, so now I say again, if anyone preaches to you a gospel contrary to the one you received, let them be under God's curse.
 48:1:10/Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.
 48:1:11/But I want you to know, brothers and sisters, that the gospel I preached is not of human origin.
 48:1:12/I did not receive it from any human source, nor was I taught it, but it came through a revelation from Jesus Christ.
-48:1:13/You have heard about my previous way of life in Judaism, how I intensely persecuted God's church and tried to destroy it. 
+48:1:13/You have heard about my previous way of life in Judaism, how I intensely persecuted God's church and tried to destroy it.
 48:1:14/And I was advancing in Judaism beyond many of my own age among my people, being more extremely zealous for the traditions of my ancestors.
-48:1:15/But when God, who set me apart from my mother's womb and called me by his grace, was pleased 
-48:1:16/To reveal his Son in me so that I might preach him among the Gentiles, I did not immediately consult with anyone. 
+48:1:15/But when God, who set me apart from my mother's womb and called me by his grace, was pleased
+48:1:16/To reveal his Son in me so that I might preach him among the Gentiles, I did not immediately consult with anyone.
 48:1:17/I did not go up to Jerusalem to see those who were apostles before me, but I went into Arabia, and later returned to Damascus.
 48:1:18/Then after three years, I went up to Jerusalem to get acquainted with Peter and stayed with him fifteen days.
 48:1:19/But I saw none of the other apostles—only James, the Lord's brother.
 48:1:20/Now concerning the things I am writing to you, I assure you before God that I am not lying.
-48:1:21/Later I went to the regions of Syria and Cilicia; 
+48:1:21/Later I went to the regions of Syria and Cilicia;
 48:1:22/And I was personally unknown to the churches of Judea that are in Christ.
 48:1:23/But they only heard the report: "The man who formerly persecuted us is now preaching the faith he once tried to destroy."
 48:1:24/And they praised God because of me.
@@ -29579,7 +29579,7 @@
 52:2:8/So deeply do we care for you that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
 52:2:9/You remember, brothers and sisters, our toil and hardship; we worked night and day so that we would not be a burden to any of you while we preached to you the gospel of God.
 52:2:10/You are witnesses, and so is God, of how holy, righteous, and blameless we were among you who believed.
-52:2:11/You know that we dealt with each of you as a father deals with his own children, 
+52:2:11/You know that we dealt with each of you as a father deals with his own children,
 52:2:12/Encouraging, comforting, and urging you to live lives worthy of God, who calls you into his kingdom and glory.
 52:2:13/And we also thank God continually because, when you received the word of God, which you heard from us, you accepted it not as a human word, but as it actually is, the word of God, which is indeed at work in you who believe.
 52:2:14/For you, brothers and sisters, became imitators of God’s churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews
